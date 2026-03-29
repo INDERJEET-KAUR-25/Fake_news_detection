@@ -67,3 +67,6 @@ streamlit run app.py
 ## 👩‍💻 Author
 
 Inderjeet Kaur
+
+Live link
+https://fakenewsdetection-ml2027-inder.streamlit.app/
